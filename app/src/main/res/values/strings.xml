@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="Button">ROLL</string>
+    <string name="luckyNumber">Lucky Number!</string>
+</resources>
